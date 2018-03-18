@@ -21,7 +21,15 @@ namespace RelogioSignalR
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc();
+            services.AddCors(o => o.AddPolicy("CorsPolicy", builder =>
+            {
+                builder
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .WithOrigins("http://localhost:4200");
+            }));
+
+            services.AddSignalR();  
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -31,14 +39,13 @@ namespace RelogioSignalR
             {
                 app.UseDeveloperExceptionPage();
             }
-            else
+
+            app.UseCors("CorsPolicy");
+
+            app.UseSignalR(routes =>
             {
-                app.UseExceptionHandler("/Error");
-            }
-
-            app.UseStaticFiles();
-
-            app.UseMvc();
+                routes.MapHub<Relogio>("relogio");
+            });
         }
     }
 }
