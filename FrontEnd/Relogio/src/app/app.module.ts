@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
+import { RelogioComponent } from './relogio/relogio.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    RelogioComponent
   ],
   imports: [
     BrowserModule
