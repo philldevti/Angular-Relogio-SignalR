@@ -1,4 +1,4 @@
-# Angular-Relogio-SignalR / RelogioSignalR
+# Angular-Relogio-SignalR
 
 ### Installation SignalR on backEnd 
 
