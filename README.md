@@ -9,3 +9,11 @@ Use the commands below to install sginalR in the project.
 $ dotnet add package Microsoft.AspNetCore.SignalR --version 1.0.0-alpha2-final
 $ npm install @aspnet/signalr-client
 ```
+
+### Run
+
+To run the application use the following command:
+
+```sh
+$ dotnet run
+```
