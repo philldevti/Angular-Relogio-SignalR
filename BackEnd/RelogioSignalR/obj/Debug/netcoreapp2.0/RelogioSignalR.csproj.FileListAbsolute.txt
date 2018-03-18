@@ -1,0 +1,10 @@
+C:\Users\phill\Source\Repos\Angular-Relogio-SignalR\BackEnd\RelogioSignalR\bin\Debug\netcoreapp2.0\RelogioSignalR.deps.json
+C:\Users\phill\Source\Repos\Angular-Relogio-SignalR\BackEnd\RelogioSignalR\bin\Debug\netcoreapp2.0\RelogioSignalR.runtimeconfig.json
+C:\Users\phill\Source\Repos\Angular-Relogio-SignalR\BackEnd\RelogioSignalR\bin\Debug\netcoreapp2.0\RelogioSignalR.runtimeconfig.dev.json
+C:\Users\phill\Source\Repos\Angular-Relogio-SignalR\BackEnd\RelogioSignalR\bin\Debug\netcoreapp2.0\RelogioSignalR.dll
+C:\Users\phill\Source\Repos\Angular-Relogio-SignalR\BackEnd\RelogioSignalR\bin\Debug\netcoreapp2.0\RelogioSignalR.pdb
+C:\Users\phill\Source\Repos\Angular-Relogio-SignalR\BackEnd\RelogioSignalR\obj\Debug\netcoreapp2.0\RelogioSignalR.csproj.CoreCompileInputs.cache
+C:\Users\phill\Source\Repos\Angular-Relogio-SignalR\BackEnd\RelogioSignalR\obj\Debug\netcoreapp2.0\RelogioSignalR.AssemblyInfoInputs.cache
+C:\Users\phill\Source\Repos\Angular-Relogio-SignalR\BackEnd\RelogioSignalR\obj\Debug\netcoreapp2.0\RelogioSignalR.AssemblyInfo.cs
+C:\Users\phill\Source\Repos\Angular-Relogio-SignalR\BackEnd\RelogioSignalR\obj\Debug\netcoreapp2.0\RelogioSignalR.dll
+C:\Users\phill\Source\Repos\Angular-Relogio-SignalR\BackEnd\RelogioSignalR\obj\Debug\netcoreapp2.0\RelogioSignalR.pdb

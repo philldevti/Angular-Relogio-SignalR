@@ -12981,11 +12981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\phill\\Source\\Repos\\Angular-Relogio-SignalR\\BackEnd\\RelogioSignalR\\RelogioSignalR.csproj",
+      "projectUniqueName": "C:\\Users\\phill\\Source\\Repos\\Angular-Relogio-SignalR\\BackEnd\\RelogioSignalR\\RelogioSignalR.csproj",
       "projectName": "RelogioSignalR",
-      "projectPath": "c:\\Users\\phill\\Source\\Repos\\Angular-Relogio-SignalR\\BackEnd\\RelogioSignalR\\RelogioSignalR.csproj",
+      "projectPath": "C:\\Users\\phill\\Source\\Repos\\Angular-Relogio-SignalR\\BackEnd\\RelogioSignalR\\RelogioSignalR.csproj",
       "packagesPath": "C:\\Users\\phill\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\phill\\Source\\Repos\\Angular-Relogio-SignalR\\BackEnd\\RelogioSignalR\\obj\\",
+      "outputPath": "C:\\Users\\phill\\Source\\Repos\\Angular-Relogio-SignalR\\BackEnd\\RelogioSignalR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
