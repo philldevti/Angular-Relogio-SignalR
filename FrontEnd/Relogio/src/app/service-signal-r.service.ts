@@ -10,6 +10,9 @@ export class ServiceSignalRService {
   public connectionEstablished: EventEmitter < Boolean > ;
 
   constructor() {
+    this.connectionEstablished = new EventEmitter < Boolean > ();
+    this.messageReceived = new EventEmitter < HoraAtual > ();
+
     this._hubConnection = new HubConnection(CONFIG.baseUrls.server);
     this._hubConnection
       .start()
