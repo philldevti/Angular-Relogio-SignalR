@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ServiceSignalRService } from '../service-signal-r.service';
 
 @Component({
   selector: 'app-relogio',
@@ -7,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class RelogioComponent implements OnInit {
 
-  constructor() { }
+  constructor(private serviceSignal: ServiceSignalRService) { }
 
   ngOnInit() {
   }
